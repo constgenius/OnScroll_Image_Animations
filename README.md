@@ -1,5 +1,7 @@
 # On-Scroll Image Animations in Next.js using Framer Motion – Step-by-Step Tutorial!
 
+Youtube Tutorial Link: https://youtu.be/kTJdb-kOSiU
+
 ![On-Scroll Image Animations in Next.js using Framer Motion](public/OnScrollImageAnimations.png)
 
 🚀 Learn how to create stunning on-scroll image animations using Next.js and Framer Motion!
