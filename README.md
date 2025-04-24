@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# On-Scroll Image Animations in Next.js using Framer Motion – Step-by-Step Tutorial!
 
-## Getting Started
+![On-Scroll Image Animations in Next.js using Framer Motion](public/OnScrollImageAnimations.png)
 
-First, run the development server:
+🚀 Learn how to create stunning on-scroll image animations using Next.js and Framer Motion!
+In this quick and easy tutorial, we'll walk through how to bring your UI to life with smooth scroll-based animations. Whether you're a beginner or looking to polish your frontend skills, this video will help you create an interactive and modern user experience using two powerful tools: Next.js and Framer Motion.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+📌 What you'll learn:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Setting up Framer Motion in a Next.js project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Creating scroll-triggered image animations
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Best practices for smooth and responsive effects
